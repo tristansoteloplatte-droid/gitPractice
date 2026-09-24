@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("Im practicing git!\n");
-	rerurn 0;
+	printf("helloworld\n");
+	printf("my name is TSP"\n);
+	return 0;
 }
 
